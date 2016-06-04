@@ -2628,6 +2628,10 @@
 			display: none;
 		}
 
+		.increaseTopPad {
+			padding: 4em 2.5em 0em 2.5em !important;
+
+		}
 		.main .container {
 			padding: 0em 2.5em 0em 2.5em ;
 			background: rgba(255, 255, 255, 0.95);
